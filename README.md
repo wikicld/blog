@@ -1,2 +1,2 @@
-# blog
-blogspot.com - Блогер
+# Блог
+Блог -> https://wikicld.blogspot.com/
